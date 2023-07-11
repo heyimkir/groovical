@@ -1,0 +1,15 @@
+c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\bin\Debug\basic-plyr.exe.config
+c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\bin\Debug\basic-plyr.exe
+c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\bin\Debug\basic-plyr.pdb
+c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\bin\Debug\basic-plyr.xml
+c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\bin\Debug\Interop.WMPLib.dll
+c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\bin\Debug\AxInterop.WMPLib.dll
+c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Debug\Interop.WMPLib.dll
+c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Debug\AxInterop.WMPLib.dll
+c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Debug\basic-plyr.vbproj.ResolveComReference.cache
+c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Debug\basic_plyr.Form1.resources
+c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Debug\basic_plyr.Resources.resources
+c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Debug\basic-plyr.vbproj.GenerateResource.Cache
+c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Debug\basic-plyr.exe
+c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Debug\basic-plyr.xml
+c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Debug\basic-plyr.pdb
