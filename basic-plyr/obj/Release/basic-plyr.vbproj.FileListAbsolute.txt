@@ -1,15 +1,16 @@
-c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\bin\Release\basic-plyr.exe.config
 c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Release\Interop.WMPLib.dll
 c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Release\AxInterop.WMPLib.dll
 c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Release\basic-plyr.vbproj.ResolveComReference.cache
-c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\bin\Release\basic-plyr.exe
-c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\bin\Release\basic-plyr.pdb
-c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\bin\Release\basic-plyr.xml
 c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\bin\Release\Interop.WMPLib.dll
 c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\bin\Release\AxInterop.WMPLib.dll
-c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Release\basic_plyr.Form1.resources
-c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Release\basic_plyr.Resources.resources
 c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Release\basic-plyr.vbproj.GenerateResource.Cache
-c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Release\basic-plyr.exe
-c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Release\basic-plyr.xml
-c:\users\kir\documents\visual studio 2013\Projects\basic-plyr\basic-plyr\obj\Release\basic-plyr.pdb
+C:\Users\kir\Documents\Visual Studio 2013\Projects\basic-plyr\basic-plyr\bin\Release\Groovical Media Player.exe.config
+C:\Users\kir\Documents\Visual Studio 2013\Projects\basic-plyr\basic-plyr\bin\Release\Groovical Media Player.exe
+C:\Users\kir\Documents\Visual Studio 2013\Projects\basic-plyr\basic-plyr\bin\Release\Groovical Media Player.pdb
+C:\Users\kir\Documents\Visual Studio 2013\Projects\basic-plyr\basic-plyr\bin\Release\Groovical Media Player.xml
+C:\Users\kir\Documents\Visual Studio 2013\Projects\basic-plyr\basic-plyr\obj\Release\GroovicalMP.Form1.resources
+C:\Users\kir\Documents\Visual Studio 2013\Projects\basic-plyr\basic-plyr\obj\Release\GroovicalMP.Resources.resources
+C:\Users\kir\Documents\Visual Studio 2013\Projects\basic-plyr\basic-plyr\obj\Release\GroovicalMP.SplashScreen1.resources
+C:\Users\kir\Documents\Visual Studio 2013\Projects\basic-plyr\basic-plyr\obj\Release\Groovical Media Player.exe
+C:\Users\kir\Documents\Visual Studio 2013\Projects\basic-plyr\basic-plyr\obj\Release\Groovical Media Player.xml
+C:\Users\kir\Documents\Visual Studio 2013\Projects\basic-plyr\basic-plyr\obj\Release\Groovical Media Player.pdb
